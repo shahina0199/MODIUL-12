@@ -1,1 +1,1 @@
-https://blog-2-xi.vercel.app/posts/aws-quickstart
+ https://blog-2-xi.vercel.app/
